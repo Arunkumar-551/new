@@ -4,8 +4,8 @@
 	<groupId>in.shan5a6</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
-	<version>1.14</version>
-	<name>myweb Maven Webapp</name>
+	<version>1.15</version>
+	<name>mywebMaven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<docker.image.prefix>devops</docker.image.prefix>
